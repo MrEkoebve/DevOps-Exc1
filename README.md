@@ -3,6 +3,8 @@ Esimerkki
 * Bullet point
 1. Luettelo
 2. Luettelo 2
+3. Luettelo 3
+4. Luettelo 4 (Development branch)
 
 _Italic_
 
